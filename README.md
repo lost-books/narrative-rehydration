@@ -98,7 +98,7 @@ Strike every reported addition from the output. What remains must match the 10 f
 
 ---
 
-##BASELINE (sealed — do not paste into renderer sessions)
+## BASELINE (sealed — do not paste into renderer sessions)
   
 Zero-invention control: one sentence per frame, frames + registry only, nothing added. Score the SHORT renders against this; score the LONG renders by striking their reported additions and comparing the remainder to this.
 
