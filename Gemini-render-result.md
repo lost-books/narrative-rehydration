@@ -1,9 +1,11 @@
-# 1. SHORT
+# GEMINI RENDER RESULT
+
+## 1. SHORT
 In the morning, Esmeralda, the girl's mother, gave the basket of food to Maria, the girl in the red hood. Esmeralda warned Maria, "Stay on the path." In the dark woods, Maria met Grumple, the hungry wolf. Grumple asked Maria, "Where are you going?" Maria answered Grumple, "To grandmother's cottage." At grandmother's cottage, Grumple swallowed Monique, the sick grandmother. In the bed, Grumple disguised himself as Monique. In the afternoon at grandmother's cottage, Maria said, "What big eyes you have." Gary, the passing woodcutter, cut the open wolf at grandmother's cottage. Monique emerged alive.
 
 ---
 
-# 2. EMOJI
+## 2. EMOJI
 🌅 👩‍👦 🧺 ➡️ 👧  
 👩‍👦 ⚠️ 💬 👧  
 👧 🌲 🤝 🐺  
@@ -17,7 +19,7 @@ In the morning, Esmeralda, the girl's mother, gave the basket of food to Maria, 
 
 ---
 
-# 3. LONG
+## 3. LONG
 In the morning, Esmeralda, the girl's mother, handed over the basket of food to Maria, the girl in the red hood. As Maria prepared to leave, Esmeralda warned her directly, "Stay on the path."
 
 Walking through the dark woods, Maria met Grumple, the hungry wolf. Standing along the shadowed trail, Grumple asked her, "Where are you going?" Maria answered him calmly, "To grandmother's cottage."
@@ -28,9 +30,9 @@ In the afternoon at grandmother's cottage, Maria entered and said, "What big eye
 
 ---
 
-## REPORT (The Manifest)
+### REPORT (The Manifest)
 
-### a. Inventions & Inferences Manifest
+#### a. Inventions & Inferences Manifest
 
 **Inferences (restatements derived directly from registry slice descriptions):**
 - `[inference]` "handed over" — Restating frame `give` with description context (Maria carrying a basket).
@@ -53,12 +55,12 @@ In the afternoon at grandmother's cottage, Maria entered and said, "What big eye
 
 ---
 
-### b. Used-Unit List
+#### b. Used-Unit List
 `mother`, `girl`, `basket`, `woods`, `wolf`, `grandmother`, `cottage`, `bed`, `woodcutter`
 
 ---
 
-### c. Emoji Legend
+#### c. Emoji Legend
 
 - 🌅 : `time:morning`
 - 👩‍👦 : `mother` (Esmeralda)
