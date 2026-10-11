@@ -1,6 +1,9 @@
 # Narrative Frame Rehydration
+
 This is a Narrative Frame Rehydration experiment: a compact test of whether a story, reduced to frames — one line per event, with people, places, and things drawn from a shared registry slice — can be re-rendered by an AI that has never seen it. The packet below contains 10 frames telling the tale of Little Red Riding Hood, the registry slice that licenses its vocabulary, and three render targets (SHORT, EMOJI, LONG). The renderer must also file a manifest — every addition declared and tagged — so the output can be checked by striking the additions and recovering the frames.
+
 ---
+
 # Red Riding Hood — frame packet (demo)
 
 Paste everything below the line into a fresh ChatGPT, Gemini, or Perplexity session. Same packet, three systems, then compare the rehydrations.
