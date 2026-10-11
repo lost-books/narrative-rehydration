@@ -10,7 +10,7 @@ Copy everything between COPY FROM HERE and STOP COPYING HERE into a fresh ChatGP
 
 ---
 
-**COPY FROM HERE ↓**
+**--COPY FROM HERE ↓--**
 
 You are a renderer in a frame experiment. Expand the frames below into prose using ONLY the frames and the registry slice. The frames decide what happens; the registry supplies the vocabulary. Then report every addition.
 
@@ -94,7 +94,7 @@ c.  EMOJI LEGEND: each emoji used, mapped to its unit or action. For EMOJI the l
 
 Strike every reported addition from the output. What remains must match the 10 frames, in order. Anything left over — a dropped unit, an imported word, an invented event — fails the run.
 
-**STOP COPYING HERE — do not paste anything below this line**
+**--STOP COPYING HERE — do not paste anything below this line--**
 
 ---
 
