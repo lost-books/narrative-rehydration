@@ -8,7 +8,7 @@ This is a Narrative Frame Rehydration experiment: a compact test of whether a st
 
 Copy everything between COPY FROM HERE and STOP COPYING HERE into a fresh ChatGPT, Gemini, or Perplexity session. Same packet, three systems, then compare the rehydrations. Do not paste the sealed baseline.
 
-<!-- ===== COPY FROM HERE ===== -->
+**COPY FROM HERE ↓**
 
 You are a renderer in a frame experiment. Expand the frames below into prose using ONLY the frames and the registry slice. The frames decide what happens; the registry supplies the vocabulary. Then report every addition.
 
@@ -90,7 +90,7 @@ c. EMOJI LEGEND: each emoji used, mapped to its unit or action. For EMOJI the le
 
 Strike every reported addition from the output. What remains must match the 10 frames, in order. Anything left over — a dropped unit, an imported word, an invented event — fails the run.
 
-<!-- ===== STOP COPYING HERE — do not paste anything below this line ===== -->
+**STOP COPYING HERE — do not paste anything below this line**
 
 <details>
 <summary><strong>BASELINE (sealed — do not paste into renderer sessions — click to reveal)</strong></summary>
