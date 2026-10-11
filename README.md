@@ -84,11 +84,11 @@ Padding (cut): "an atmosphere of mechanical quiet" — serves no frame. If a det
 
 ## REPORT (the manifest)
 
-a. Every invented detail, one per line, tagged [manner], [texture], or [bridge]. Material restated from a unit's description is an [inference], not an invention — restatement only; an interpretive word not in the description is an invention. File it separately. SHORT uses frames + bynames only. The rendered prose must contain no bracketed tags or annotations — clean text first, then this report. One manifest, not two.
+a.  Every invented detail, one per line, tagged [manner], [texture], or [bridge]. Material restated from a unit's description is an [inference], not an invention — restatement only; an interpretive word not in the description is an invention. File it separately. SHORT uses frames + bynames only. The rendered prose must contain no bracketed tags or annotations — clean text first, then this report. One manifest, not two.
 
-b. USED-UNIT LIST: every unit key used (key, not display name), exact spelling, comma-separated — no more, no fewer. A unit mentioned only inside pinned speech counts as used; mark it as speech-only.
+b.  USED-UNIT LIST: every unit key used (key, not display name), exact spelling, comma-separated — no more, no fewer. A unit mentioned only inside pinned speech counts as used; mark it as speech-only.
 
-c. EMOJI LEGEND: each emoji used, mapped to its unit or action. For EMOJI the legend is the check — every sequence must resolve back to its frame.
+c.  EMOJI LEGEND: each emoji used, mapped to its unit or action. For EMOJI the legend is the check — every sequence must resolve back to its frame.
 
 ## THE CHECK
 
