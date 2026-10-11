@@ -6,9 +6,9 @@ This is a Narrative Frame Rehydration experiment: a compact test of whether a st
 
 # Red Riding Hood — frame packet (demo)
 
-Paste everything below the line into a fresh ChatGPT, Gemini, or Perplexity session. Same packet, three systems, then compare the rehydrations.
+Copy everything between COPY FROM HERE and STOP COPYING HERE into a fresh ChatGPT, Gemini, or Perplexity session. Same packet, three systems, then compare the rehydrations. Do not paste the sealed baseline.
 
----
+<!-- ===== COPY FROM HERE ===== -->
 
 You are a renderer in a frame experiment. Expand the frames below into prose using ONLY the frames and the registry slice. The frames decide what happens; the registry supplies the vocabulary. Then report every addition.
 
@@ -90,9 +90,10 @@ c. EMOJI LEGEND: each emoji used, mapped to its unit or action. For EMOJI the le
 
 Strike every reported addition from the output. What remains must match the 10 frames, in order. Anything left over — a dropped unit, an imported word, an invented event — fails the run.
 
----
+<!-- ===== STOP COPYING HERE — do not paste anything below this line ===== -->
 
-## BASELINE (sealed — do not paste into renderer sessions)
+<details>
+<summary><strong>BASELINE (sealed — do not paste into renderer sessions — click to reveal)</strong></summary>
 
 Zero-invention control: one sentence per frame, frames + registry only, nothing added. Score the SHORT renders against this; score the LONG renders by striking their reported additions and comparing the remainder to this.
 
@@ -106,3 +107,6 @@ Zero-invention control: one sentence per frame, frames + registry only, nothing 
 8. In the afternoon, at the cottage, Maria said, "What big eyes you have."
 9. Gary, the passing woodcutter, cut Grumple open at the cottage.
 10. Monique emerged alive.
+
+</details>
+
