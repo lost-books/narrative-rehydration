@@ -101,6 +101,8 @@ Strike every reported addition from the output. What remains must match the 10 f
 <details>
 <summary><strong>BASELINE (sealed — do not paste into renderer sessions — click to reveal)</strong></summary>
 
+---
+
 Zero-invention control: one sentence per frame, frames + registry only, nothing added. Score the SHORT renders against this; score the LONG renders by striking their reported additions and comparing the remainder to this.
 
 1. In the morning, Esmeralda, the girl's mother, gave the basket of food to Maria, the girl in the red hood.
