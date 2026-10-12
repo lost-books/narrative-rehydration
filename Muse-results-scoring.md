@@ -8,10 +8,13 @@ Muse was used to create the demo packet in the Readme which the renders were bas
 
 **SHORT**
 10/10 against the sealed baseline. Clean.
+
 **EMOJI**
 All 10 sequences resolve through the legend. Verbs don't survive the medium — the sequences are noun-chains, and succession plus the legend do the work. Minor: one line instead of ten.
+
 **Manifest**
 One integrity flaw: two "inferences" restate frame content rather than additions. The packet needs one new rule — the manifest may list only things the renderer added. Striking those filings during the check would delete real frame content instead of additions.
+
 **Used units**
 Correct — all 10 keys, path marked speech-only.
 
